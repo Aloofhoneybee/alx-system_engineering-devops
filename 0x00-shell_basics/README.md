@@ -1,0 +1,1 @@
+typing bash scripts
